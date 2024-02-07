@@ -1,0 +1,12 @@
+name: cicd_shiny
+title: CICD Shiny
+username: BC86_CB
+account: BC86_CB
+server: rsc.axe.uat.df.servier.com
+hostUrl: https://rsc.axe.uat.df.servier.com/__api__
+appId: 223
+bundleId: 455
+url: https://rsc.axe.uat.df.servier.com/content/ce5c74a7-b645-4087-8008-7bb8c30db5e0/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
