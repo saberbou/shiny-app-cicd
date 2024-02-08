@@ -9,7 +9,7 @@ library(DT)
 library(rsconnect)
 
 ui<- fluidPage(
-  titlePanel("Adverse Events Query to OpenFDA", windowTitle = "Adverse Events Query to OpenFDA"),
+  titlePanel("Adverse Events Query to OpenFDA by AXE", windowTitle = "Adverse Events Query to OpenFDA"),
   fluidRow(
     column(3,
            br(),
